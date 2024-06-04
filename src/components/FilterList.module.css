@@ -1,0 +1,13 @@
+.filtr_container {
+  background-color: #e0e5e5;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  margin-top: 72px;
+}
+.btn_search {
+  margin: 7px;
+  width: 93px;
+  border-radius: 9px;
+  height: 42px;
+}

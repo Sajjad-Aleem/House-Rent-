@@ -1,0 +1,18 @@
+.header_container {
+  background-color: #191a1b;
+  color: black;
+  margin-bottom: 25px;
+  position: fixed; /* or absolute, sticky depending on your needs */
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays on top */
+  background-color: #343a40; /* Example background color */
+  padding: 1rem; /* Adjust as needed */
+}
+.activeCol {
+  color: orange;
+}
+.notActiveCol {
+  color: white;
+}
